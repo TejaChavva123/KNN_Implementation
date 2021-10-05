@@ -10,17 +10,19 @@
   
   **2) Feature Engineering**
   
-   **1) Treating with Null or NaN values.**
+      **1) Treating with Null or NaN values.**
      
-   **2) Feature Scaling.**
-     
-   **3) Outliers removal.**
+      **2) Feature Scaling.**
+      
+      **3) Outliers removal.**
      
   **3) Splitting the data .**
   
   **4) Fitting into model.**
   
   **5) Calculating the performance of the model.**
+  
+  **6) Increasing accuracy by Elbow Method**
   
 # Libraries used :
 
