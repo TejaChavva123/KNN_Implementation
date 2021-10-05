@@ -7,12 +7,19 @@
 # Steps done during implementation :
 
   **1) Loading the Dataset.**
+  
   **2) Feature Engineering**
-     **1) Treating with Null or NaN values.**
-     **2) Feature Scaling.**
-     **3) Outliers removal.**
+  
+   **1) Treating with Null or NaN values.**
+     
+   **2) Feature Scaling.**
+     
+   **3) Outliers removal.**
+     
   **3) Splitting the data .**
+  
   **4) Fitting into model.**
+  
   **5) Calculating the performance of the model.**
   
 # Libraries used :
