@@ -10,11 +10,11 @@
   
   **2) Feature Engineering**
   
-      **1) Treating with Null or NaN values.**
+      1) Treating with Null or NaN values.
      
-      **2) Feature Scaling.**
+      2) Feature Scaling.
       
-      **3) Outliers removal.**
+      3) Outliers removal.
      
   **3) Splitting the data .**
   
